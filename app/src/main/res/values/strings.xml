@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleMaps</string>
+    <string name="access_token">pk.eyJ1IjoiaGFyaXNodGFudSIsImEiOiJjamZ2MHF0MTczdzBsMzNzMmM4c3pnOW4yIn0.A7g69BGUCASLTekAKHEFwA</string>
+</resources>
